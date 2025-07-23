@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=1d47f0&height=100&section=header&text=Hi,%20I'm%20Juwon🖖&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=170&color=f3f4f5&section=header&text=Hi%20🖖&fontAlignY=40&desc=I'm%20Juwon%20Yeom&descSize=30&descAlignY=68&fontSize=50&fontColor=7290b0)
 
 ## Hi there 👋
 
