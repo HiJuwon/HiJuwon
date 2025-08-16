@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=000000&section=header&text=Juwon's%20Github&fontAlignY=55&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&height=170&color=f4f4f4&section=header&text=Juwon's%20Github&fontAlignY=55&fontSize=80&fontColor=121212)
 
 ## 🖖 I'm Juwon Yeom!
 - 구현 가능한 디자인을 좋아합니다.
