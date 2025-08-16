@@ -40,5 +40,5 @@
 
 <br>
 
-![HiJuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiJuwon&show_icons=true&theme=catppuccin_latte)
+![HiJuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiJuwon&show_icons=true&theme=nord)
 
