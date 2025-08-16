@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=170&color=f3f4f5&section=header&text=Hi%20🖖&fontAlignY=40&desc=I'm%20Juwon%20Yeom&descSize=50&descAlignY=78&fontSize=70&fontColor=7290b0)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=170&color=f3f4f5&section=header&text=Hi%20🖖&fontAlignY=40&fontSize=70&fontColor=7290b0)
+
+## 🖖 I'm Juwon Yeom!
+- 구현 가능한 디자인을 좋아합니다.
+- 프로덕트 디자인 & 프론트엔드 개발
 
 ## 🧑‍🎓 Education
 - 홍익대학교 시각디자인과 `주전공` <sub><sup>2021.03 - ing</sup></sub>
