@@ -33,7 +33,7 @@
 ![figma](https://img.shields.io/badge/figma-wireframe?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E)
 
 
-## 🗣️ Channel & Contact
+## 👥 Channel & Contact
 
 <a href="https://www.linkedin.com/in/juwon-yeom-807434279/"><img src="https://img.shields.io/badge/linkedin-sns?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuwon-yeom-807434279%2F"></a>
 <a href="https://velog.io/@hijuwon/posts"><img alt="Static Badge" src="https://img.shields.io/badge/velog-blog?style=for-the-badge&logo=velog&logoColor=white&color=%2320C997&link=https%3A%2F%2Fvelog.io%2F%40hijuwon%2Fposts"></a>
