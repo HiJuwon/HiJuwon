@@ -15,8 +15,8 @@
 - 정보는 모으고 목표는 사냥하는 팀 프로젝트 관리 툴, 백호 VECO `프론트엔드 개발` <sub>2025.06 - ing, **✨ UMC 8기 데모데이 대상 ✨**</sub>
 
 ## 🏆 Awards
-- 홍익대학교 UMC 개발자 해커톤 최우수상 `Web 부문` <sub>2025.06</sub>
-- UMC 8th Demo Day 대상 `백호 VECO` <sub>2025.08</sub>
+- 홍익대학교 UMC 개발자 해커톤 최우수상✨ `Web 부문` <sub>2025.06</sub>
+- UMC 8th Demo Day 대상✨ `백호 VECO` <sub>2025.08</sub>
 
 ## 🛠️ Tech Stack
 
