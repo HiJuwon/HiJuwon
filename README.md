@@ -35,5 +35,5 @@
 
 <br>
 
-![HiJuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiJuwon&show_icons=true&theme=nord)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiJuwon" width="500" height="300" />
 
