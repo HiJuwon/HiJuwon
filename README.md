@@ -28,17 +28,6 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### Tools
-
-![vscode](https://img.shields.io/badge/VSCode-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<br>![notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black) 
-![discord](https://img.shields.io/badge/discord-workspace?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2)
-![figma](https://img.shields.io/badge/figma-wireframe?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E)
-
-
 ## 👥 Channel & Contact
 
 <a href="https://www.linkedin.com/in/juwon-yeom-807434279/"><img src="https://img.shields.io/badge/linkedin-sns?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuwon-yeom-807434279%2F"></a>
