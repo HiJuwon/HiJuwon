@@ -1,5 +1,3 @@
-<div align="center">
-  
 ## About
 |소속|전공|시기|
 |:---:|:---:|:---:|
@@ -26,5 +24,3 @@
 <br>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiJuwon" width="500" height="300" />
-
-</div>
