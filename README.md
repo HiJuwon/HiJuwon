@@ -1,5 +1,7 @@
 ## Juwon Yeom 염주원
 
+### About
+- 홍익대학교 시각디자인과 & 컴퓨터공학과(복수전공)
 
 ### Projects
 - 나의 예산 기반 AI 여행 플래너, PlanB `디자인·프론트엔드` <sub>2026.04 - ing</sub>
