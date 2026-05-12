@@ -1,10 +1,11 @@
-# 🖖 I'm Juwon Yeom!
+### Juwon Yeom | 염주원
 
-## 💻 Projects
-- 홍익대학교 시각디자인과 제33회 와우영상제 아카이브 웹사이트 `디자인·프론트엔드 개발` <sub>2023.07 - 2023.12</sub>
-- 정보는 모으고 목표는 사냥하는 팀 프로젝트 관리 툴, 백호 VECO `프론트엔드 개발` <sub>2025.06 - ing, ✨ UMC 8기 데모데이 대상 ✨</sub>
+### Projects
+- 나의 예산 기반 AI 여행 플래너, **PlanB** `디자인·프론트엔드(flutter)` <sub>2026.04 - ing</sub>
+- 정보는 모으고 목표는 사냥하는 팀 프로젝트 관리 툴, **백호 VECO** `프론트엔드(web)` <sub>2025.06 - ing, ✨ UMC 8기 데모데이 대상 ✨</sub>
+- 홍익대학교 시각디자인과 **제33회 와우영상제 아카이브 웹사이트** `디자인·프론트엔드(web)` <sub>2023.07 - 2023.12</sub>
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -14,12 +15,11 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 👥 Channel & Contact
+### Channel & Contact
 
 <a href="https://www.linkedin.com/in/juwon-yeom-807434279/"><img src="https://img.shields.io/badge/linkedin-sns?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuwon-yeom-807434279%2F"></a>
 <a href="https://velog.io/@hijuwon/posts"><img alt="Static Badge" src="https://img.shields.io/badge/velog-blog?style=for-the-badge&logo=velog&logoColor=white&color=%2320C997&link=https%3A%2F%2Fvelog.io%2F%40hijuwon%2Fposts"></a>
 
-<br>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiJuwon" width="500" height="300" />
 
