@@ -21,6 +21,14 @@
 |LinkedIn|&nbsp;[link](www.linkedin.com/in/juwon-yeom-807434279/)&nbsp;|
 |Blog|[link](https://velog.io/@hijuwon/posts)|
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiJuwon" width="500" height="300" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiJuwon" width="450" />
+  <a href="https://github.com/devxb/gitanimals">
+    <img 
+        src="https://render.gitanimals.org/farms/HiJuwon"
+        width="355"
+    />
+  </a>
+</p>
