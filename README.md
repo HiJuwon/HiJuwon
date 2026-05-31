@@ -7,11 +7,11 @@
 <br>
 
 ## Projects
-|제목|역할|시기|
-|---|---|:---:|
-|나의 예산 기반 AI 여행 플래너, PlanB&nbsp;|`디자인` `프론트엔드`&nbsp;&nbsp;&nbsp;&nbsp;|2026 - ing|
-|팀 프로젝트 관리 툴, 백호 VECO (✨ UMC 8기 데모데이 대상 ✨)|`프론트엔드`|2025|
-|제33회 와우영상제 웹사이트|`디자인` `프론트엔드`|2023|
+|제목|역할|시기|레포 링크|
+|---|---|:---:|:---:|
+|나의 예산 기반 AI 여행 플래너, PlanB&nbsp;|`디자인` `프론트엔드`&nbsp;&nbsp;&nbsp;&nbsp;|2026 - ing|[link](https://github.com/PlanBproject-dev/frontend)|
+|팀 프로젝트 관리 툴, 백호 VECO<br>(✨ UMC 8기 데모데이 대상 ✨)|`프론트엔드`|2025|[link](https://github.com/vecosystem/VECO_Frontend)|
+|제33회 와우영상제 웹사이트|`디자인` `프론트엔드`|2023|[link](https://github.com/HiJuwon/wowff2023)|
 
 <br>
 
